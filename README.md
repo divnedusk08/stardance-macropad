@@ -22,7 +22,7 @@ Made in Fusion 360.
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/sch.png)
 
 
 ## PCB
