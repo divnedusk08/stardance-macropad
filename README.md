@@ -22,13 +22,13 @@ Made in Fusion 360.
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/SCH_IMAGE.png)
 
 Source file: [StarDance_Macropad.kicad_sch](pcb/StarDance_Macropad.kicad_sch)
 
 ## PCB
 
-![PCB](images/pcb.png)
+![PCB](images/PCB_IMAGE.png)
 
 Source file: [StarDance_Macropad.kicad_pcb](pcb/StarDance_Macropad.kicad_pcb)
 
