@@ -15,14 +15,7 @@ The case is two 3D printed parts: a base that holds the PCB, and a top plate wit
 - Custom PCB designed in KiCad
 - Two-part 3D printed case with a USB cutout
 - KMK firmware, with an easily editable keymap
-- [Add or remove items so this matches your design]
 
-## CAD Model
-
-[WRITE THIS YOURSELF: how the case goes together. Example facts: it's two
-printed parts, a base and a top plate; the top plate holds the switches;
-it's held together with M3 screws through the 4 corner holes. Add anything
-else, like tilt or how the PCB is mounted.]
 
 ![Top view](images/top%20view.png)
 ![Top side view](images/top%20side%20view.png)
