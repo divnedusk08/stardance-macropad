@@ -1,7 +1,5 @@
 # StarDance Macropad
 
-![Overall hackpad](images/overall.png)
-
 StarDance is a 3-key macropad built around a Seeed XIAO microcontroller. It runs KMK firmware and the keys are set to Copy, Paste and Undo.
 
 I wanted a small pad for the shortcuts I use all the time while doing schoolwork and designing. Copy, paste and undo are the ones I hit most, so three keys felt like enough. This was also my first time designing a PCB and a case together, so I kept it simple to learn the whole process!!!
@@ -26,9 +24,13 @@ Made in Fusion 360.
 
 ![Schematic](images/schematic.png)
 
+Source file: [StarDance_Macropad.kicad_sch](pcb/StarDance_Macropad.kicad_sch)
+
 ## PCB
 
 ![PCB](images/pcb.png)
+
+Source file: [StarDance_Macropad.kicad_pcb](pcb/StarDance_Macropad.kicad_pcb)
 
 ## Firmware
 
