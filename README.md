@@ -27,7 +27,7 @@ Made in Fusion 360.
 
 ## PCB
 
-![PCB](images/PCB_IMAGE.png)
+![PCB](images/pcb.png)
 
 ## Firmware
 
