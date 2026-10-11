@@ -29,8 +29,6 @@ Made in Fusion 360.
 
 ![PCB](images/PCB_IMAGE.png)
 
-![PCB](images/pcb.png)
-
 ## Firmware
 
 Runs [KMK](https://github.com/KMKfw/kmk_firmware). Each switch connects
